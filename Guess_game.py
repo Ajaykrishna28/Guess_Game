@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-This code is about guessing 
+This code is about guessing number game
 Created on Fri Aug  9 14:09:11 2024
 
 @author: ajayk
