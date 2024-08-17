@@ -3,7 +3,7 @@
 This code is about guessing number game
 Created on Fri Aug  9 14:09:11 2024
 
-@author: ajayk
+@author: Ajaykrishna28
 """
 
 import random
